@@ -1,9 +1,10 @@
 ## 👋 Hi there! I'm Jimin Woo
 
 I'm a software engineer and a 3th year student studying Computer Engineering.
-- 🌱 I’m currently learning .css, .html, .c, .c++, and .python
+- 🌱 I’m a hardware/software developer focusing on .css, .html, .c, .c++, and .python
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/rainjiminwoo/)
-- ⚡ Fun fact: I love drawing, feel free to check out my artwork!
+- 📫 How to reach me: [mail](rain.woo@mail.utoronto.ca)
+<!--- ⚡ Fun fact: I love drawing, feel free to check out my artwork! -->
 
 Feel free to reach out to me :)
 
