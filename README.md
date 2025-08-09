@@ -8,9 +8,11 @@
 - graduated #1 in fine arts & design from [Seoul Arts High School](https://yego.sen.hs.kr/), now blending creativity with engineering to build impactful, user-focused software ✨  
 - my interests at the moment:
 
+```
 > human-computer interaction (HCI) & UX  
 > frontend architecture & performance optimization  
 > cloud infrastructure & scalable backend systems  
 > machine learning for real-world applications  
 > UI/UX design with figma & prototyping tools  
 > art & illustration 🎨
+```
